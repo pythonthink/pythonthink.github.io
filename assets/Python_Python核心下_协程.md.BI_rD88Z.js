@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.HChY8QLq.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Python/Python核心下/协程.md","filePath":"Python/Python核心下/协程.md","lastUpdated":null}'),a={name:"Python/Python核心下/协程.md"};function n(r,s,c,_,d,p){return o(),e("div")}const l=t(a,[["render",n]]);export{i as __pageData,l as default};
